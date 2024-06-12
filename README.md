@@ -1,6 +1,6 @@
 TITLE: CodTech IT Solutions Internship - Task Documentation: “To-DO LIST” Using CSS, HTML, JAVASCRIPT.
 
-INTERN INFORMATION: Name: Eslavath Rakesh Nayak ID: C0D4838
+INTERN INFORMATION: Name: NAVEEN MALIKANTI ID:CT08WD440
 
 INTRODUCTION
 
